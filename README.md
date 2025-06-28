@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1385715427367456808/1388310615990206504/image.png?ex=68608484&is=685f3304&hm=1062ebadd48f0f925f1b09e972c3a12b9cb1c5759c52503214692e519415d24e&" alt="Quited Logo" width="700"/>
+  <img src="https://cdn.discordapp.com/attachments/1385715427367456808/1388310615990206504/image.png?ex=68608484&is=685f3304&hm=1062ebadd48f0f925f1b09e972c3a12b9cb1c5759c52503214692e519415d24e&" alt="Quited Logo" width="600"/>
 </p>
 
 
