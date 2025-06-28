@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Quited"><img src="https://img.shields.io/github/last-commit/Quited/MainRepo?style=for-the-badge" alt="Last Commit"></a>
-  <a href="https://github.com/Quited/MainRepo"><img src="https://img.shields.io/github/issues/Quited/MainRepo?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/Quited/MainRepo"><img src="https://img.shields.io/github/license/Quited/MainRepo?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/Quited1"><img src="https://img.shields.io/github/last-commit/Quited/MainRepo?style=for-the-badge" alt="Last Commit"></a>
+  <a href="https://github.com/Quited1/MainRepo"><img src="https://img.shields.io/github/issues/Quited/MainRepo?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/Quited1/MainRepo"><img src="https://img.shields.io/github/license/Quited/MainRepo?style=for-the-badge" alt="License"></a>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Meanwhile, feel free to explore the repos or contact us for beta access.
 
 ## 🐛 Bug Reports & Feedback
 
-If you encounter bugs, issues, or have feature requests, feel free to [open an issue](https://github.com/Quited/MainRepo/issues) or submit a [pull request](https://github.com/Quited/MainRepo/pulls).
+If you encounter bugs, issues, or have feature requests, feel free to [open an issue](https://github.com/Quited/MainRepo/issues) or submit a [pull request](https://github.com/Quited1/MainRepo/pulls).
 
 ---
 
