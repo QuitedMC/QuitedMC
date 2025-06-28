@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1385715427367456808/1388308900738236547/Quited_-_Copy.png?ex=686082eb&is=685f316b&hm=4d282eef6ae1df66f35519b57f5632392365e1edb1338711edf5626786078c94&" alt="Quited Logo" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1335199093642760283/1388311698938527907/image.png?ex=68608586&is=685f3406&hm=ec32b687e27a941b8091c097bf061347505820ca255a7d479b086d89d135da6c&" alt="Quited Logo" width="200"/>
 </p>
 
-<h1 align="center">Quited</h1>
 
 <p align="center">
   Your gateway to powerful Minecraft services, custom apps, and modern tools — all in one place.
