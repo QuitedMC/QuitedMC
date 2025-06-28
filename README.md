@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Quited/Assets/blob/main/logo.png" alt="Quited Logo" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1385715427367456808/1388308900738236547/Quited_-_Copy.png?ex=686082eb&is=685f316b&hm=4d282eef6ae1df66f35519b57f5632392365e1edb1338711edf5626786078c94&" alt="Quited Logo" width="200"/>
 </p>
 
 <h1 align="center">Quited</h1>
