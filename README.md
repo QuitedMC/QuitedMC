@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Quited1"><img src="https://img.shields.io/github/last-commit/Quited/MainRepo?style=for-the-badge" alt="Last Commit"></a>
-  <a href="https://github.com/Quited1/MainRepo"><img src="https://img.shields.io/github/issues/Quited/MainRepo?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/Quited1/MainRepo"><img src="https://img.shields.io/github/license/Quited/MainRepo?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/QuitedMC"><img src="https://img.shields.io/github/last-commit/QuitedMC/MainRepo?style=for-the-badge" alt="Last Commit"></a>
+  <a href="https://github.com/QuitedMC/MainRepo"><img src="https://img.shields.io/github/issues/QuitedMC/MainRepo?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/QuitedMC/MainRepo"><img src="https://img.shields.io/github/license/QuitedMC/MainRepo?style=for-the-badge" alt="License"></a>
 </p>
 
 ---
