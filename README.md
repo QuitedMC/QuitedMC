@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1335199093642760283/1390401499544420444/image.png?ex=68681fcd&is=6866ce4d&hm=80039682c31fe8ddb80a9eb001b5eface14ebb90f3ad379982bd9de1d39e2735&" alt="Quited Logo" width="600"/>
+  <img src="https://cdn.discordapp.com/attachments/1180079560881082379/1391219957408468992/image.png?ex=686bc2cd&is=686a714d&hm=bbab74c317c5ef8ff7105bc244575f489f3a403aa14df6574ccec5981806338d&" alt="Quited Logo" width="600"/>
 </p>
+
+
+<a href="https://discord.com/users/1165043058715394199" target="_blank">
+  <img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1165043058715394199?borderRadius=5px">
+</a>
+
+
 
 
 <p align="center">
