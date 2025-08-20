@@ -21,9 +21,9 @@ I’m a **Full-Stack Developer, Minecraft Modder, and Designer** who loves build
 ---
 
 ## 📈 Progress
-- 🔥 Web Development: ![Progress](https://progress-bar.dev/75/?title=Advanced)  
-- ⚙️ Minecraft Modding: ![Progress](https://progress-bar.dev/85/?title=Pro)  
-- 🤖 Discord Bots: ![Progress](https://progress-bar.dev/65/?title=Learning)  
+- 🔥 Web Development: ![Progress](https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge)  
+- ⚙️ Minecraft Modding: ![Progress](https://img.shields.io/badge/Progress-85%25-green?style=for-the-badge)  
+- 🤖 Discord Bots: ![Progress](https://img.shields.io/badge/Progress-65%25-yellow?style=for-the-badge)  
 
 ---
 
