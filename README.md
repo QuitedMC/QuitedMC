@@ -15,7 +15,7 @@ I’m a **Full-Stack Developer, Minecraft Modder, and Designer** who loves build
 
 ## 📊 GitHub Stats
 ![Fy2ne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fy2ne&show_icons=true&theme=tokyonight)  
-![Fy2ne's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fy2ne&theme=tokyonight&hide_border=false)  
+![Fy2ne's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fy2ne&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fy2ne&layout=compact&theme=tokyonight)  
 
 ---
